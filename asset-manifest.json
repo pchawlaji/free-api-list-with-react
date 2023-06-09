@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Curtis-Thomas/free-api-list-with-react/static/css/main.e6c13ad2.css",
-    "main.js": "/Curtis-Thomas/free-api-list-with-react/static/js/main.5e2b6fd7.js",
-    "static/js/787.f778a5db.chunk.js": "/Curtis-Thomas/free-api-list-with-react/static/js/787.f778a5db.chunk.js",
-    "index.html": "/Curtis-Thomas/free-api-list-with-react/index.html",
-    "main.e6c13ad2.css.map": "/Curtis-Thomas/free-api-list-with-react/static/css/main.e6c13ad2.css.map",
-    "main.5e2b6fd7.js.map": "/Curtis-Thomas/free-api-list-with-react/static/js/main.5e2b6fd7.js.map",
-    "787.f778a5db.chunk.js.map": "/Curtis-Thomas/free-api-list-with-react/static/js/787.f778a5db.chunk.js.map"
+    "main.css": "/free-api-list-with-react/static/css/main.e6c13ad2.css",
+    "main.js": "/free-api-list-with-react/static/js/main.18ac6912.js",
+    "static/js/787.f778a5db.chunk.js": "/free-api-list-with-react/static/js/787.f778a5db.chunk.js",
+    "index.html": "/free-api-list-with-react/index.html",
+    "main.e6c13ad2.css.map": "/free-api-list-with-react/static/css/main.e6c13ad2.css.map",
+    "main.18ac6912.js.map": "/free-api-list-with-react/static/js/main.18ac6912.js.map",
+    "787.f778a5db.chunk.js.map": "/free-api-list-with-react/static/js/787.f778a5db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5e2b6fd7.js"
+    "static/js/main.18ac6912.js"
   ]
 }
